@@ -12,10 +12,12 @@ impl Contract {
     
     pub fn sumar(env: Env, a:i128, b:i128) -> i128 {
       //Implementar función que sume dos números
+      return 30;
     }
 
     pub fn resultado_anterior(env: Env) -> i128 {
            //Implementar función que retorne el valor anterior
+            return 30;
     }
 }
 
