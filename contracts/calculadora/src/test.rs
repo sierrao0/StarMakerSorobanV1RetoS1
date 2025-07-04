@@ -11,7 +11,7 @@ fn test() {
 
    let resultado = client.sumar(&10, &20);
     
-     assert_eq!(
+    assert_eq!(
        resultado,
        30
     ); 
